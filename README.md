@@ -17,7 +17,8 @@ Basic input validation and user-friendly prompts included.
 Project link: https://github.com/sharif-islam96403/OOP-Problem-Solving/blob/main/Bank_Account.cpp
 
 Author:
-Coded by Sharif Islam
+Sharif Islam
+
 Date:
 September 24, 2023
 
