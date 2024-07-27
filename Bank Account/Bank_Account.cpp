@@ -124,7 +124,7 @@ int main(){
                 cout<<"No such bank account number ("<<s<<") exists."<<endl;
             }
         }
-        else if(x==4){
+        else if(x==4) {
             cout<<"Program exited successfully"<<endl;
             return 0;
         }
