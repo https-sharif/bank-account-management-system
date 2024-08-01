@@ -15,10 +15,11 @@ Key features include creating accounts, checking balances, and making deposits/w
 
 Project link: [Bank-Account-Management-System](https://github.com/sharif-islam96403/OOP-Problem-Solving/tree/main/Bank-Account-Management-System)
 
-Author:
+### Author:
 Sharif Islam
 
-Date:
+### Date:
 September 24, 2023 
 
+---
 More project coming soon
