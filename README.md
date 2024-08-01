@@ -1,11 +1,11 @@
 # OOP-Problem-Solving
-Welcome to "My OOP Projects" repository!
+Welcome to my 'OOP-Problem-Solving' repository!
 This is where I store and showcase my personal projects related to Object-Oriented Programming (OOP).
 As a self-learner and enthusiast, I've created these projects to apply and refine my understanding of OOP principles,
-and I'm excited to share my journey with you.
+and this will also serve as a resources for beginner striving to learn OOP.
 
 ## Project 1: Bank Account
-A basic console-based banking system implemented in C++ for learning Object-Oriented Programming (OOP).
+A basic console-based banking system implemented in C++ using Object-Oriented Programming (OOP).
 Key features include creating accounts, checking balances, and making deposits/withdrawals.
 
 ### Usage:
