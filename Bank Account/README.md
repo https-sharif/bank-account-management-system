@@ -1,7 +1,6 @@
 # Bank Account Management System
 
-This is a simple C++ console application for managing bank accounts.
-Users can create accounts, deposit and withdraw funds, transfer money, and more.
+A simple C++ console application for managing bank accounts, allowing users to create accounts, deposit and withdraw funds, transfer money, and more.
 
 ## Features
 
@@ -9,44 +8,41 @@ Users can create accounts, deposit and withdraw funds, transfer money, and more.
 - **Log In**: Access existing bank accounts using a secure PIN.
 - **Deposit and Withdraw**: Manage account balances by depositing and withdrawing funds.
 - **Transfer Money**: Transfer money between accounts.
-- **Edit Account Information**: Update account holder's name and PIN.
+- **Edit Account Information**: Update the account holder's name and PIN.
 - **Transaction History**: View the history of deposits, withdrawals, and transfers.
 - **Delete Account**: Remove an existing account after verification.
 
 ## Installation
 
-1. Clone this repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/sharif-islam96403/OOP-Problem-Solving.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Bank-Account-Management-System/
+   cd OOP-Problem-Solving/Bank-Account-Management-System
    ```
 3. Compile the program using a C++ compiler:
-   **i. Using GNU C++ compiler**
-   ```bash
-   g++ -o bank_account_management main.cpp
-   ```
-   **ii. Using Clang C++ compiler**
-   ```bash
-   clang++ -o bank_account_system main.cpp
-   ```
+   - Using GNU C++ compiler:
+     ```bash
+     g++ -o bank_account_management main.cpp
+     ```
+   - Using Clang C++ compiler:
+     ```bash
+     clang++ -o bank_account_management main.cpp
+     ```
 
 ## Usage
 
 1. Run the compiled program:
-```bash
-./bank_account_management
-```
+   ```bash
+   ./bank_account_management
+   ```
 
-2. Follow the on-screen instructions to manage bank accounts. Options include adding an account, logging in, depositing and withdrawing funds, transferring money, and deleting accounts.
-
-
+2. Follow the on-screen instructions to manage bank accounts, including adding accounts, logging in, depositing and withdrawing funds, transferring money, and deleting accounts.
 
 ## License
 
-This project is open-source and available under the [MIT License]((https://opensource.org/license/mit)).
-
-
-## Feel free to open issues and pull requests for improvements.
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+---
+Feel free to open issues and submit pull requests for improvements.
