@@ -43,6 +43,8 @@ A simple C++ console application for managing bank accounts, allowing users to c
 
 ## License
 
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open-source and available under the [MIT License](/LICENSE).
+
 ---
+
 Feel free to open issues and submit pull requests for improvements.
