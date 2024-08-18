@@ -16,27 +16,27 @@ A simple C++ console application for managing bank accounts, allowing users to c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sharif-islam96403/OOP-Problem-Solving.git
+   git clone https://github.com/sharif-islam96403/bank-account-management-system.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd OOP-Problem-Solving/Bank-Account-Management-System
+   cd bank-account-management-system
    ```
 3. Compile the program using a C++ compiler:
    - Using GNU C++ compiler:
      ```bash
-     g++ -o bank_account_management main.cpp
+     g++ -o bank_account Bank_Account.cpp
      ```
    - Using Clang C++ compiler:
      ```bash
-     clang++ -o bank_account_management main.cpp
+     clang++ -o bank_account Bank_Account.cpp
      ```
 
 ## Usage
 
 1. Run the compiled program:
    ```bash
-   ./bank_account_management
+   ./bank_account
    ```
 
 2. Follow the on-screen instructions to manage bank accounts, including adding accounts, logging in, depositing and withdrawing funds, transferring money, and deleting accounts.
