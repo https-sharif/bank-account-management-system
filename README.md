@@ -16,7 +16,7 @@ A simple C++ console application for managing bank accounts, allowing users to c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sharif-islam96403/bank-account-management-system.git
+   git clone https://github.com/https-sharif/bank-account-management-system.git
    ```
 2. Navigate to the project directory:
    ```bash
